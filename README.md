@@ -10,3 +10,17 @@ This is one of the most useful beginner-level IoT project ideas. The project inv
 This project can be very helpful for -
 
 *  Municipal corporations in any smart city
+
+
+To be done :
+
+Traffic Jam Detection: With cloud connectivity, sensors, and CCTV cameras tracking intersections 24×7, technicians can remotely monitor all the streets in real-time from the city’s traffic control room.
+
+Connected Vehicles: A smart traffic system using IoT technology can connect with roadside tracking devices to enable direct communication between intelligent vehicles & intersections.
+
+Modular Control: Real-time detection of congestion triggers dynamic adjustments in the systems meant for controlling traffic lights, express lanes, and entry alarms.
+Emergency Navigation: A system with edge data processing & programmatic alerting capabilities can alert response units (police, ambulance & tow trucks) in case of a car crash or collision. It reduces the crucial time an injured driver or passenger remains unattended.
+
+Road Safety Analytics: Systems with pattern detection capabilities can immediately flag high cruising speeds and reckless driver or inappropriate pedestrian behavior.
+
+Digital Payments: Commercial traffic management systems enable quick and convenient electronic transactions in real time while ensuring financial data safety
